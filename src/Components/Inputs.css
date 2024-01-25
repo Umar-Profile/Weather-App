@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+.inputbox{
+    display:grid;
+    place-items: center;
+    height: 100vh;
+    background-color: skyblue;
+    width:25%;
+    height:50%;
+    border-radius: 25px;
+    margin:18% 35%;
+    padding:50px;
+}
+.input_field >h1{
+    font-family: "Montserrat", san-serif;
+    margin-bottom: 25px;
+}
+.input_field > form >button{
+    margin-top: 25px;
+    margin-left: 40px;
+}

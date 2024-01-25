@@ -1,0 +1,14 @@
+.result{
+    display:grid;
+    place-items: center;
+    height: 100vh;
+    background-color: skyblue;
+    width:25%;
+    height:50%;
+    border-radius: 25px;
+    margin:18% 35%;
+    padding:50px;
+}
+.result >p{
+    margin-top: 10px;
+}
